@@ -7,7 +7,7 @@ This is the sample SBT project for the Scala programming language.
 Build
 =====
 
-Using [http://www.scala-sbt.org/](sbt), you can compile the project
+Using [sbt](http://www.scala-sbt.org/), you can compile the project
 using `sbt compile`, and assemble the jar using `sbt assembly`.
 
 Dependency
